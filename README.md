@@ -24,3 +24,9 @@ ArUco/ChArUco
 - <https://youtu.be/_-BTKiamRTg?si=6sR3nzWhaVHolsEe>
 - <https://youtu.be/yKypaVl6qQo?si=UosjFBEIxVf3QtRm>
 - <https://rtc-fukushima.jp/technical/5892/>
+
+## Camera Calibration
+
+- [Gentle Introduction using OpenCV](https://docs.opencv.org/4.x/dc/dbb/tutorial_py_calibration.html)
+- [Implementation](https://github.com/luckykk273/Camera-Calibration/tree/main)
+- [Video: Theory: Camera Calibration using Zhang's Method](https://www.youtube.com/watch?v=-9He7Nu3u8s)
